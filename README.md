@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 👨‍💻 Front-end developer
-- 🤖 Look for a job
 - 🍔 Happy coding
 
 <!--
