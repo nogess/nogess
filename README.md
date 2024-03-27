@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👨‍💻 Front-end developer
+- 🤖 Look for a job
+- 🍔 Happy coding
+
 <!--
 **nogess/nogess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
